@@ -1,6 +1,5 @@
 import './App.css';
 import './index.css';
-import './components/Bookshelf.css'
 import Bookshelf from './components/Bookshelf.jsx';
 
 const App = () => {
