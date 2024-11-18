@@ -52,6 +52,7 @@ button {
 
 button:hover {
   border-color: #646cff;
+  background-color: #646cff;
 }
 
 button:focus,
@@ -62,10 +63,11 @@ form {
   display: flex;
   flex-direction: column;
   width: 90%;
+  gap: 15px;
 }
 
 input {
-  padding: 5px;
+  padding: 8px;
 }
 
 .bookshelfDiv {
